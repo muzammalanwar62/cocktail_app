@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "101090886109",
+    "firebase_url": "https://cocktaillogin.firebaseio.com",
+    "project_id": "cocktaillogin",
+    "storage_bucket": "cocktaillogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101090886109:android:dd4885b78332cdf6e83634",
+        "android_client_info": {
+          "package_name": "com.example.cocktail_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101090886109-hofgj5ndk2q9gts4dpu9onimbhh0do5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR5r4NqmUL0G2czkSa3dwgH_ZRii_zpHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101090886109-hofgj5ndk2q9gts4dpu9onimbhh0do5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
